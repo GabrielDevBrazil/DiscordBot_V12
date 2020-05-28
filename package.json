@@ -1,0 +1,27 @@
+{
+  "name": "discordbot_v12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "email-format-checker": "0.0.8",
+    "enmap": "^5.2.4",
+    "fs": "0.0.1-security",
+    "get-video-duration": "^3.0.0-beta.1",
+    "i": "^0.3.6",
+    "lowdb": "^1.0.0",
+    "mathjs": "^7.0.0",
+    "nick-generator": "^1.0.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "youtube-search": "^1.1.4"
+  }
+}
