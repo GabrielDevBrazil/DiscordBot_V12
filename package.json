@@ -16,7 +16,7 @@
     "enmap": "^5.2.4",
     "fs": "0.0.1-security",
     "get-video-duration": "^3.0.0-beta.1",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "lowdb": "^1.0.0",
     "mathjs": "^7.0.0",
     "nick-generator": "^1.0.1",
